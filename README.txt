@@ -1,0 +1,1 @@
+   The project is represented by a typical "shopping cart" site, named "E-shopping.ro".    The site consists of a single page, which also contains the shopping cart. Here also are displayed the products, with name and price, having the possibility of adding them to the basket using a button. To create the project, we used XAMPP and a text editor, Notepad++.
